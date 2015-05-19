@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LCDFonts>
+    <LCDFontDefinition>
+      <Id>
+        <TypeId>LCDFontDefinition</TypeId>
+        <SubtypeId>Monospace</SubtypeId>
+      </Id>
+     <FontDataPath>Fonts\Monospace\FontData.xml</FontDataPath>
+     <FontTextures>	 
+		<FontTexture>
+			<Path>Fonts\Monospace\FontData-0.dds</Path>
+		</FontTexture>
+		<FontTexture>
+			<Path>Fonts\Monospace\FontData-1.dds</Path>
+		</FontTexture>
+     </FontTextures>
+    </LCDFontDefinition>
+  </LCDFonts>
+</Definitions>
